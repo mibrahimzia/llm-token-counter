@@ -1,10 +1,4 @@
-Yeah, badges do add that clean OSS vibe.
 
-Here’s an updated **README.md** with **badges at the top**, including **MIT license**. You can paste this directly over your existing file (or just steal the top section if you prefer).
-
----
-
-````md
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Gradio](https://img.shields.io/badge/ui-gradio-orange)
 ![Tokenization](https://img.shields.io/badge/LLM-token%20counter-purple)
@@ -17,8 +11,7 @@ Supports file upload (`.txt`, `.md`) or pasted text, with model-specific tokeniz
 
 Built for people who actually need to **plan context limits**, not guess.
 
----
-
+````
 ## Features
 
 - 📄 Upload `.txt` or `.md` files  
