@@ -101,8 +101,4 @@ No dashboards. No APIs. Just counts.
 
 MIT
 
-```
 
-
-Those are easy polish wins, but this already looks legit.
-```
